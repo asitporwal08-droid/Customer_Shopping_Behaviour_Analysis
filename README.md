@@ -28,6 +28,10 @@ This project analyzes customer shopping behaviour to identify purchasing trends,
 - `Customer_Shopping_Behaviour_Analysis.pbix` — Power BI dashboard
 - `Customer_Shopping_Behaviour_Dashboard.png` — Dashboard screenshot
 
+- ## Dashboard Preview
+
+![Customer Shopping Behaviour Dashboard](Customer_Shopping_Behaviour_Dashboard.png)
+
 ## Objective
 To turn customer shopping data into actionable insights that support business decisions.
 
